@@ -1,0 +1,7 @@
+{
+  "name": "app-citas-celebres",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
