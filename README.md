@@ -59,12 +59,12 @@ app-citas-celebres/
 
 ## Observaciones
 
-*Entorno Web vs Nativo: Se observaron limitaciones en la persistencia web (browser) debido a la carga del motor WebAssembly, priorizando por tanto la validación funcional en el emulador nativo de Android.
+ - Entorno Web vs Nativo: Se observaron limitaciones en la persistencia web (browser) debido a la carga del motor WebAssembly, priorizando por tanto la validación funcional en el emulador nativo de Android.
 
-*Navegación: Se implementó una gestión de rutas que permite un flujo coherente entre la gestión de datos y la visualización.
+ - Navegación: Se implementó una gestión de rutas que permite un flujo coherente entre la gestión de datos y la visualización.
 La eliminación desde Inicio funciona correctamente gracias al toggle de Configuración.
 
-*En Gestión la opción de eliminar está implementada de forma básica.
+- En Gestión la opción de eliminar está implementada de forma básica.
 
 
 
